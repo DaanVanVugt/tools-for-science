@@ -1,4 +1,8 @@
 ---
+title: Computer Tools for Efficient Science
+author: Daan van Vugt <daanvanvugt@gmail.com>
+institute: TU/e
+date: 2/12/2015
 header-includes:
   - \usepackage{gitdags}
 ---
