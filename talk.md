@@ -63,7 +63,7 @@ See also: Mercurial (hg), svn
 ## Interactive notebooks
 Write your code and documentation in the same place
 
-* Jupyter (IPython, IRuby, IJulia + link to Authorea)
+* Jupyter (IPython/Ruby/Julia, link to Authorea, SageMathCloud)
 * Mathematica
 * rCharts + Slidify + shiny (R)
 
@@ -105,7 +105,7 @@ Many offer integration with syntax checkers and build tools
 # Creating figures
 ## Tools for generating graphics
 * D3.js (Interactive on webpages)
-* Matplotlib (Python)
+* Matplotlib (Python, + D3.js)
 * Gnuplot
 * MATLAB / Octave + Matlab2tikz (for LaTeX)
 * Ggplot (R)
