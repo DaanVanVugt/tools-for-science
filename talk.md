@@ -129,6 +129,7 @@ Many offer integration with syntax checkers and build tools
 * Vistrails (Workflow and provenance management system)
 * PyRDM (Research Data Management)
 * Sumatra, Elabftw, Wings Workflow (Electronic Lab Notebook)
+* Digital lab notebooks: Evernote, Onenote
 
 # Presenting research
 ## Posters
