@@ -1,7 +1,7 @@
 # Tools for efficient science
 This repository holds a copy of a presentation meant to introduce new researchers to useful (open) tools for research.
 See [tools.md](tools.md) for the presentation content, which is converted by pandoc into a [beamer presentation](tools.pdf) and a [handout](handout.pdf).
-The beamer presentation uses the [metropolis theme](/matze/mtheme).
+The beamer presentation uses the [metropolis theme](https://github.com/matze/mtheme).
 
 You need the Fira Sans fonts and XeTeX to compile these documents correctly.
 
