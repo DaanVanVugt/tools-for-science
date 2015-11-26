@@ -9,7 +9,10 @@ tools.pdf: tools.md tools.tex Makefile
 handout.pdf: tools.md Makefile
 	pandoc -s tools.md --latex-engine=xelatex -V geometry:margin=1in -o handout.pdf
 
-clean: 
+tools.zip: tools.pdf handout.pdf Makefile
+	zip -r tools.zip tools.pdf handout.pdf
+
+clean:
 	latexmk -C tools.tex
 	rm -f *.pdfsync
 	rm -rf *~ *.tmp
