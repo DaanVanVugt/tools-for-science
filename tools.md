@@ -49,9 +49,9 @@ See also: Mercurial (hg), svn
 * Hackpad
 * Etherpad
 * Google Drive
-* Microsoft Word
+* Microsoft Word (eww)
 
-## Sharing data with the report
+## Sharing data accompanying the paper
 * 3TU datacenter
 * DataCite
 * Dryad
@@ -80,8 +80,8 @@ Write your code and documentation in the same place
 * Did I mention version control?
 
 ## Editors
-* Notepad++
 * Vim (vimtutor & vim-adventures to learn)
+* Notepad++
 * Emacs
 * Sublime Text
 * Many more, choose one you like and pimp it, add syntax highlighting etc
@@ -101,6 +101,7 @@ Many offer integration with syntax checkers and build tools
 * Octave
 * Python + Numpy + Scipy
 * Linux tools: sed, awk, grep, gnuplot etc.
+* R, paraview
 
 # Creating figures
 ## Tools for generating graphics
@@ -108,7 +109,7 @@ Many offer integration with syntax checkers and build tools
 * Matplotlib (Python, + D3.js)
 * Gnuplot
 * MATLAB / Octave + Matlab2tikz (for LaTeX)
-* Ggplot (R)
+* Ggplot2 (R)
 * Mathematica / Maple
 * Paraview (3D figures)
 
@@ -149,6 +150,7 @@ Many offer integration with syntax checkers and build tools
 * Import papers, automatically gets name and title right
 * Share libraries with colleagues
 * Sync bibtex files with LaTeX
+* Full-text search
 
 ## Other tools, sites for finding papers
 * Web of Science
@@ -171,6 +173,6 @@ Many offer integration with syntax checkers and build tools
 \input{my_orcid.tex}
 
 ## Now it is your turn!
-* Read 5-10 minutes about each of the programs that interest you
+* Read 5-10 minutes about some of these programs
 * Try one (or a few)
 * Let me know how it goes, and if you find something interesting
