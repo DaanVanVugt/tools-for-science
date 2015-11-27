@@ -37,8 +37,8 @@ See also: Mercurial (hg), svn
 
 ### How?
 * Web-based: **Authorea**, ShareLaTeX, WriteLaTeX, StackEdit
-* Windows/Mac: TeXstudio/TeXshop
-* Linux: Gummi, Vim/Emacs
+* Windows/Mac: TeXMaker/TeXstudio/TeXshop
+* Linux: Gummi, Vim, Emacs (+Auctex)
 
 ## Authorea
 \includegraphics[width=\textwidth]{authorea.png}
@@ -81,8 +81,8 @@ Write your code and documentation in the same place
 
 ## Editors
 * Vim (vimtutor & vim-adventures to learn)
-* Notepad++
 * Emacs
+* Notepad++
 * Sublime Text
 * Many more, choose one you like and pimp it, add syntax highlighting etc
 
@@ -102,6 +102,7 @@ Many offer integration with syntax checkers and build tools
 * Python + Numpy + Scipy
 * Linux tools: sed, awk, grep, gnuplot etc.
 * R, paraview
+* C/C++/Fortran shlib + python (for speed)
 
 # Creating figures
 ## Tools for generating graphics
@@ -123,7 +124,7 @@ Many offer integration with syntax checkers and build tools
 \input{xkcd_image.tex}
 
 ## How to automate
-* Makefiles
+* GNU Make
 * Bash scripting
 * Ruffus (Python, computational pipelines)
 * Snakemake, Pegasus (Workflow management system)
