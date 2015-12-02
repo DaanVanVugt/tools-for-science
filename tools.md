@@ -133,6 +133,9 @@ Many offer integration with syntax checkers and build tools
 * Sumatra, Elabftw, Wings Workflow (Electronic Lab Notebook)
 * Digital lab notebooks: Evernote, Onenote
 
+## Snakemake
+\includegraphics[width=0.8\textwidth]{dag.png}
+
 # Presenting research
 ## Posters
 * LaTeX (poster package)
