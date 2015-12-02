@@ -177,3 +177,4 @@ Many offer integration with syntax checkers and build tools
 * Read 5-10 minutes about some of these programs
 * Try one (or a few)
 * Let me know how it goes, and if you find something interesting
+* View the source of this presentation on https://github.com/Exteris/tools-for-science
